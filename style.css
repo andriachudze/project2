@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background:rgb(39, 108, 197);
+}
+h3,h2{
+    color:rgb(44, 245, 151);
+}
+h1{
+    text-align: center;
+    color:midnightblue;
+}
+p{
+    color:rgb(29, 6, 112, 0.89);
+    size:30px;
+}
+img{
+    float:left;
+    width:200px;
+    height: 150px;
+    margin:0px 20px 0px 0px;
+    border:2px solid black
+}
+.p{
+    border-bottom:1px solid black;
+    padding:0px 0px 10px 0px;
+}
+table{
+    border-collapse: collapse;
+    border:2px solid rgb(44, 245, 151);
+}
+td{
+    border:2px solid rgb(44, 245, 151);
+    color:rgb(29, 6, 112, 0.89);
+}
+p{
+    color:skyblue;
+}
+a{
+    text-decoration: none;
+    border:1px solid indigo;
+    padding:5px;
+    border-radius:10px;
+}
+.p2{
+   color:rgb(29, 6, 112, 0.89);
+    size:30px; 
+    padding:0px 0px 10px 0px;
+}
